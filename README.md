@@ -36,7 +36,11 @@ It recognizes important surroundings such as **traffic signs**, detects **pothol
 
 📷 Sample Output
 <img width="398" height="378" alt="Picture5" src="https://github.com/user-attachments/assets/1b85045a-9291-48b4-88bb-4c2a276fbf14" />
-<img width="439" height="375" alt="Picture1" src="https://github.com/user-attachments/assets/97154c66-32d2-4e99-ae7d-2c2ea7e21428" />
-<img width="669" height="539" alt="Picture3" src="https://github.com/user-attachments/assets/e1df4d8f-a9a3-4425-b99f-22635d857504" />
+<img width="398" height="375" alt="Picture1" src="https://github.com/user-attachments/assets/97154c66-32d2-4e99-ae7d-2c2ea7e21428" />
+<img width="398" height="378" alt="Picture3" src="https://github.com/user-attachments/assets/e1df4d8f-a9a3-4425-b99f-22635d857504" />
+![Picture6](https://github.com/user-attachments/assets/50100c25-cc98-4d02-af24-91730be9203a)
+
+
+
 
 
