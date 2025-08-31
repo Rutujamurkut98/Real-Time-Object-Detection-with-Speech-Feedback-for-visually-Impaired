@@ -1,0 +1,12 @@
+python -m venv myenv
+myenv\Scripts\activate
+
+
+pip install flask opencv-python pyttsx3 pytesseract psutil torch dlib numpy scipy
+
+pip install dlib   #if required
+
+pip install "protobuf<4.21.3"
+
+pip install "numpy<1.24.0,>=1.18.5"
+pip install ipython
